@@ -12,13 +12,14 @@ UNAs can be created by two or more members through agreement without the need fo
 
 Wrappr provides a form of UNA agreement that is drafted to attach to accounts through minting an NFT and provide qualified code deference, stored on Ethereum and IPFS ([Delaware copy](https://de.una.ricardian.eth.limo/), [Wyoming copy](https://wy.una.ricardian.eth.limo/)).
 
+A good practice for DAOs would be to pass a governance proposal to vote on the formation of the UNA, this way it proves that there's an agreement by members.
+
+
 ### Examples
 
 Examples of DAO UNAs in the wild include [Idle DAO](https://gov.idle.finance/t/legal-structure-for-the-idle-dao/682) and [LexDAO](https://lexdao.coop/). [Legal authors](https://github.com/LeXpunK-Army/LeXpunK_DAO_Defense_Protocol/blob/main/Operator's%20Manual%20-%20LeXpunK%20Legal%20Defense%20Protocol.pdf) have also argued that groups defined by a notable public purpose and organized via smart contracts should already have limited liability for their membership as UNA, such as the original [Moloch DAO](https://molochdao.com/).
 
 ### DAOs & UNA's
-
-A good practice for DAOs would be to pass a governance proposal to vote on the formation of the UNA, this way it proves that there's an agreement by members.
 
 If an UNA agreement is silent, [model law](https://www.uniformlaws.org/viewdocument/final-act-149?CommunityKey=40227d3a-8b5d-47c2-8cd0-b0ec12da97f9&tab=librarydocuments) prohibits transfers of membership interests by default, so these should be included in a UNA's agreemnt, dictating when transfers should be allowed.
 
